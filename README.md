@@ -1,5 +1,7 @@
 # glxrat
 
+Turns the gears in glxgears into rats
+
 ![glxrat](glxrat.png)
 
 ## Build
